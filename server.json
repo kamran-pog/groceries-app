@@ -1,0 +1,24 @@
+{
+    "Items": [
+        {
+            "completed": false,
+            "id": 1,
+            "isEditing": false,
+            "shopping": "get bread"
+        },
+
+        {
+            "completed": true,
+            "id": 2,
+            "isEditing": false,
+            "shopping": "get cabbage"
+        },
+
+        {
+            "completed": false,
+            "id": 3,
+            "isEditing": true,
+            "shopping": "get apples"
+        }
+    ]
+}
